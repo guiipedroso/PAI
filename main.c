@@ -30,7 +30,7 @@ main()
       default:
         printf("Option isn't valid\n");
       }
-    }while((op > 0) || (op < 0));
+    }while(op);
 
   return(0);
   }

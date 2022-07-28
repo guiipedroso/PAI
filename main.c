@@ -28,6 +28,8 @@ main()
         printf("\nOption 3\n\n");
         break;
       case 4:
+        break;
+      case 5:
         saru();
         puts("\n");
         break;

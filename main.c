@@ -19,16 +19,20 @@ main()
         cr();
         break;
       case 1:
-        printf("Option 1\n");
+        printf("\nOption 1\n\n");
         break;
       case 2:
-        printf("Option 2\n");
+        printf("\nOption 2\n\n");
         break;
       case 3:
-        printf("Option 3\n");
+        printf("\nOption 3\n\n");
+        break;
+      case 4:
+        saru();
+        puts("\n");
         break;
       default:
-        printf("Option isn't valid\n");
+        printf("\nOption isn't valid\n\n");
       }
     }while(op);
 

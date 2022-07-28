@@ -63,26 +63,33 @@ onset()
   printf("|  _ \\ __ _(_)\n");
   printf("| |_) / _` | |\n");
   printf("|  __/ (_| | |\n");
-  printf("|_|   \\__,_|_|\n");
+  printf("|_|   \\__,_|_| v1.0\n");
   printf("\n");
   printf("Programming Artificial Intelligence");
   printf("\n\n");
+  printf("made by ~ github.com/guiipedroso");
+  printf("\n\n\n");
   }
 
 void
 menu()
   {
+  printf("+++++++++++++++++++++++++++++++++++++++++++++++++++++++\n+                                                     +");
+  printf("\n+  [MENU]                                             +\n+                                                     +\n");
+  printf("+  1 -                                                +\n");
+  printf("+  2 -                                                +\n");
+  printf("+  3 -                                                +\n");
+  printf("+  4 - Meet Saru                                      +\n");
+  printf("+  0 - Exit                                           +\n");
+  printf("+                                                     +\n");
   printf("+++++++++++++++++++++++++++++++++++++++++++++++++++++++\n");
-  printf("+\n+ [MENU]                                              +\n+                                                     +\n");
-  printf("+ 1 -                                                 +\n");
-  printf("+ 2 -                                                 +\n");
-  printf("+ 3 -                                                 +\n");
-  printf("+ 0 - Exit                                            +\n");
   }
 
 void
 cr()
   {
+  puts("\n");
+  puts("Programming 2 a better world!");
   puts("\n");
   puts("Copyright (c) 2022 Guilherme Pedroso de Lima");
   }
